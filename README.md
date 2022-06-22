@@ -19,7 +19,7 @@ Arguments needed:
 python launch_gomoku.py -b 15 -c 5 -t 30
 ```
 <p align="center">
-  <img src="images\Capture1.PNG" alt="alt text" width="610" height="600">
+  <img src="images\Capture1.PNG" alt="alt text" width="610" height="700">
 </p>
 
 <p align="center">
